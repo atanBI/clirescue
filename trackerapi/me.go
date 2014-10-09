@@ -8,8 +8,8 @@ import (
 	"os"
 	u "os/user"
 
-	"github.com/atanBI/clirescue/cmdutil"
-	"github.com/atanBI/clirescue/user"
+	"github.com/clirescue/cmdutil"
+	"github.com/clirescue/user"
 )
 
 var (
